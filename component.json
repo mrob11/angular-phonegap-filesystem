@@ -1,0 +1,9 @@
+{
+  "name": "angular-phonegap-filesystem",
+  "version": "0.1.0",
+  "main": "filesystem.js",
+  "dependencies": {
+    "angular": "~1.2.0",
+    "angular-phonegap-ready": "~0.0.1"
+  }
+}
