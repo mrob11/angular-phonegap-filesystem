@@ -32,3 +32,7 @@ angular.module('myApp', ['mike360.phonegap.filesystem'])
 
 Special thanks to @btford for his work on other AngularJS + PhoneGap components.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mike360/angular-phonegap-filesystem/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
